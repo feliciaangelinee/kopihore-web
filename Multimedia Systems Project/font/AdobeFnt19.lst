@@ -1,0 +1,114 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue.zip
+FileModTime:1575621224
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue\About.md
+FileModTime:1551689948
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue\About.txt
+FileModTime:1551689960
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue\BebasNeue-Regular.eot
+FileModTime:1518678238
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BebasNeue-Regular
+FamilyName:Bebas Neue
+StyleName:Regular
+FullName:Bebas Neue Regular
+MenuName:Bebas Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\LABProject\Font\bebas_neue\BebasNeue-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:42200
+FileModTime:1517879088
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bebas Neue Regular
+NameArray:0,Win,1,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BebasNeue-Regular
+FamilyName:Bebas Neue
+StyleName:Regular
+FullName:Bebas Neue Regular
+MenuName:Bebas Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\LABProject\Font\bebas_neue\BebasNeue-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60576
+FileModTime:1517880456
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bebas Neue Regular
+NameArray:0,Win,1,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue\BebasNeue-Regular.woff
+FileModTime:1518678236
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue\BebasNeue-Regular.woff2
+FileModTime:1518678238
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue\OFL.txt
+FileModTime:1517905818
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue\OFL-FAQ.txt
+FileModTime:1517850138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\LABProject\Font\bebas_neue\Try_BebasNeuePro.txt
+FileModTime:1551690122
+%EndFont
+
